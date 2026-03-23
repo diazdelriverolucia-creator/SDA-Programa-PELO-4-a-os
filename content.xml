@@ -1,0 +1,1713 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>base</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260323132321QUEPS8</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260323132321LCT2NP</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>3.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>SdA &quot;Explorando el mundo de las abejas&quot;</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_subtitle</key>
+    <value>Programa de Estimulación del Lenguaje Oral (PELO)</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Lucía Díaz del Rivero</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>Situación de Aprendizaje diseñada para el alumnado de Educación Infantil de 4 años. Igualmente, los aspectos destacados se encuentran dentro del Programa de Estimulación del Lenguaje Oral (PELO) impartido por la maestra de Audición y Lenguaje.</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>base</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0-beta2</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1774268595319</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-mn35plxy-wlpab2r50</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Inicio</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Inicio</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Inicio</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Inicio</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mn35plxy-wlpab2r50</odePageId>
+      <odeBlockId>block-1774121734985-44le5ikgz</odeBlockId>
+      <blockName>¿Qué aspectos principales tiene esta Sda?</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mn35plxy-wlpab2r50</odePageId>
+          <odeBlockId>block-1774121734985-44le5ikgz</odeBlockId>
+          <odeIdeviceId>idevice-1774121734979-iholus10h</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div style="position: relative; width: 100%; height: 0; padding-top: 56.2500%; padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden; border-radius: 8px; will-change: transform;"><iframe width="100" height="100" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0; margin: 0;" loading="lazy" src="https://www.canva.com/design/DAHECT2KLOY/1xjIqw5EUcx-EVq8-ZprVQ/view?embed" allowfullscreen="allowfullscreen" allow="fullscreen" data-mce-fragment="1">
+  </iframe></div>
+<p><a href="https://www.canva.com/design/DAHECT2KLOY/1xjIqw5EUcx-EVq8-ZprVQ/view?utm_content=DAHECT2KLOY&utm_campaign=designshare&utm_medium=embeds&utm_source=link" target="_blank" rel="noopener">Sda: “Explorando el mundo de las abejas”</a> de Lucía Díaz Del Rivero</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1774121734979-iholus10h","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div style=\"position: relative; width: 100%; height: 0; padding-top: 56.2500%; padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden; border-radius: 8px; will-change: transform;\"><iframe width=\"100\" height=\"100\" style=\"position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0; margin: 0;\" loading=\"lazy\" src=\"https://www.canva.com/design/DAHECT2KLOY/1xjIqw5EUcx-EVq8-ZprVQ/view?embed\" allowfullscreen=\"allowfullscreen\" allow=\"fullscreen\" data-mce-fragment=\"1\">\n  </iframe></div>\n<p><a href=\"https://www.canva.com/design/DAHECT2KLOY/1xjIqw5EUcx-EVq8-ZprVQ/view?utm_content=DAHECT2KLOY&utm_campaign=designshare&utm_medium=embeds&utm_source=link\" target=\"_blank\" rel=\"noopener\">Sda: “Explorando el mundo de las abejas”</a> de Lucía Díaz Del Rivero</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mn35ply0-664umuobd</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Curación de contenidos del aula</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Curación de contenidos del aula</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Curación de contenidos del aula</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mn35ply0-664umuobd</odePageId>
+      <odeBlockId>block-1774121805707-r66dpb90m</odeBlockId>
+      <blockName>¿Cómo ayudamos a nuestros alumnos/as a trabajar con la información correcta en sus proyectos?</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mn35ply0-664umuobd</odePageId>
+          <odeBlockId>block-1774121805707-r66dpb90m</odeBlockId>
+          <odeIdeviceId>idevice-1774121805705-actqs37hk</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Para nuestro proyecto “Explorando el mundo de las abejas”, he preparado dos colecciones de recursos digitales que nos ayudan a aprender y a enseñar de manera organizada y divertida:</p>
+<p>1) Recopilación para alumnado (Padlet)</p>
+<p>He creado un <a href="https://padlet.com/ldiariv689/sda-explorando-el-mundo-de-las-abejas-5qmbabfqj8ph9nc8" target="_blank" id="link_0" rel="noopener">Padlet </a>con todos los recursos que el alumnado utilizará en la Situación de Aprendizaje “Explorando el mundo de las abejas”: vídeos educativos sobre las abejas, cuentos, canciones, fichas y actividades. Todo está pensado para que puedan explorar y aprender de forma clara y entretenida.</p>
+<p>Enlace del Padlet: <a href="https://padlet.com/ldiariv689/sda-explorando-el-mundo-de-las-abejas-5qmbabfqj8ph9nc8" target="_blank" id="link_1" rel="noopener">https://padlet.com/ldiariv689/sda-explorando-el-mundo-de-las-abejas-5qmbabfqj8ph9nc8</a></p>
+<p>2) Recopilación para docentes (Symbaloo)</p>
+<p>He creado un <a href="https://www.symbaloo.com/mix/audicion-y-lenguaje-ltmo" target="_blank" id="link_3" rel="noopener">Symbaloo </a>que organiza los recursos de Audición y Lenguaje que utilizo en el aula. Incluye materiales para estimular vocabulario y comprensión oral, actividades de conciencia fonológica, ejercicios de atención y memoria auditiva, y herramientas para gestionar el aula según las necesidades de cada grupo. Este espacio sirve de referencia para otros docentes y también para que las familias vean cómo se organiza el aprendizaje.</p>
+<p>Enlace del Symbaloo: <a href="https://www.symbaloo.com/mix/audicion-y-lenguaje-ltmo" target="_blank" id="link_2" rel="noopener">https://www.symbaloo.com/mix/audicion-y-lenguaje-ltmo</a></p>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1774121805705-actqs37hk","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Para nuestro proyecto “Explorando el mundo de las abejas”, he preparado dos colecciones de recursos digitales que nos ayudan a aprender y a enseñar de manera organizada y divertida:</p>\n<p>1) Recopilación para alumnado (Padlet)</p>\n<p>He creado un <a href=\"https://padlet.com/ldiariv689/sda-explorando-el-mundo-de-las-abejas-5qmbabfqj8ph9nc8\" target=\"_blank\" id=\"link_0\" rel=\"noopener\">Padlet </a>con todos los recursos que el alumnado utilizará en la Situación de Aprendizaje “Explorando el mundo de las abejas”: vídeos educativos sobre las abejas, cuentos, canciones, fichas y actividades. Todo está pensado para que puedan explorar y aprender de forma clara y entretenida.</p>\n<p>Enlace del Padlet: <a href=\"https://padlet.com/ldiariv689/sda-explorando-el-mundo-de-las-abejas-5qmbabfqj8ph9nc8\" target=\"_blank\" id=\"link_1\" rel=\"noopener\">https://padlet.com/ldiariv689/sda-explorando-el-mundo-de-las-abejas-5qmbabfqj8ph9nc8</a></p>\n<p>2) Recopilación para docentes (Symbaloo)</p>\n<p>He creado un <a href=\"https://www.symbaloo.com/mix/audicion-y-lenguaje-ltmo\" target=\"_blank\" id=\"link_3\" rel=\"noopener\">Symbaloo </a>que organiza los recursos de Audición y Lenguaje que utilizo en el aula. Incluye materiales para estimular vocabulario y comprensión oral, actividades de conciencia fonológica, ejercicios de atención y memoria auditiva, y herramientas para gestionar el aula según las necesidades de cada grupo. Este espacio sirve de referencia para otros docentes y también para que las familias vean cómo se organiza el aprendizaje.</p>\n<p>Enlace del Symbaloo: <a href=\"https://www.symbaloo.com/mix/audicion-y-lenguaje-ltmo\" target=\"_blank\" id=\"link_2\" rel=\"noopener\">https://www.symbaloo.com/mix/audicion-y-lenguaje-ltmo</a></p>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mn35ply0-skv40qrl4</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Licencia y seguridad</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Licencia y seguridad</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Licencia y seguridad</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mn35ply0-skv40qrl4</odePageId>
+      <odeBlockId>block-1774121916412-qulvxahq2</odeBlockId>
+      <blockName>¿Cómo podemos enseñar a nuestros niños/as a mantener segura su información en la red?</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mn35ply0-skv40qrl4</odePageId>
+          <odeBlockId>block-1774121916412-qulvxahq2</odeBlockId>
+          <odeIdeviceId>idevice-1774121916409-igglspuht</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div style="position: relative; width: 100%; height: 0; padding-top: 250.0000%; padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden; border-radius: 8px; will-change: transform;"><iframe width="100" height="100" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0; margin: 0;" loading="lazy" src="https://www.canva.com/design/DAHDv4o-vd4/o2SooL0jZs27NiooFseKqA/view?embed" allowfullscreen="allowfullscreen" allow="fullscreen" data-mce-fragment="1">
+  </iframe></div>
+<p><a href="https://www.canva.com/design/DAHDv4o-vd4/o2SooL0jZs27NiooFseKqA/view?utm_content=DAHDv4o-vd4&utm_campaign=designshare&utm_medium=embeds&utm_source=link" target="_blank" rel="noopener">2.3. Licencias y seguridad</a> de Lucía Díaz Del Rivero</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1774121916409-igglspuht","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div style=\"position: relative; width: 100%; height: 0; padding-top: 250.0000%; padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden; border-radius: 8px; will-change: transform;\"><iframe width=\"100\" height=\"100\" style=\"position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0; margin: 0;\" loading=\"lazy\" src=\"https://www.canva.com/design/DAHDv4o-vd4/o2SooL0jZs27NiooFseKqA/view?embed\" allowfullscreen=\"allowfullscreen\" allow=\"fullscreen\" data-mce-fragment=\"1\">\n  </iframe></div>\n<p><a href=\"https://www.canva.com/design/DAHDv4o-vd4/o2SooL0jZs27NiooFseKqA/view?utm_content=DAHDv4o-vd4&utm_campaign=designshare&utm_medium=embeds&utm_source=link\" target=\"_blank\" rel=\"noopener\">2.3. Licencias y seguridad</a> de Lucía Díaz Del Rivero</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mn35ply1-19jc2rl5s</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Guía didáctica</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Guía didáctica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Guía didáctica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mn35ply1-19jc2rl5s</odePageId>
+      <odeBlockId>block-1774121983155-41vl6hgmj</odeBlockId>
+      <blockName>¿Qué vamos a trabajar?</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mn35ply1-19jc2rl5s</odePageId>
+          <odeBlockId>block-1774121983155-41vl6hgmj</odeBlockId>
+          <odeIdeviceId>idevice-1774121983152-6a32r7nul</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><embed width="1200" height="600" src="{{context_path}}/content/resources/6.1. Asociamos tareas a Criterios de evaluación.docx.pdf" type="application/pdf"></embed></p>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1774121983152-6a32r7nul","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><embed width=\"1200\" height=\"600\" src=\"{{context_path}}/content/resources/6.1. Asociamos tareas a Criterios de evaluación.docx.pdf\" type=\"application/pdf\"></embed></p>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mn35ply3-riybm1v5o</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Línea temporal</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Línea temporal</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Línea temporal</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mn35ply3-riybm1v5o</odePageId>
+      <odeBlockId>block-1774122070095-53s0ouz9l</odeBlockId>
+      <blockName>¿Cómo podemos seguir paso a paso nuestra aventura?</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mn35ply3-riybm1v5o</odePageId>
+          <odeBlockId>block-1774122070095-53s0ouz9l</odeBlockId>
+          <odeIdeviceId>idevice-1774122070093-lf6b912kv</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Para el proyecto “Explorando el mundo de las abejas”, he creado una línea temporal interactiva que organiza las actividades, los grupos, los recursos y los espacios que utilizaremos en clase.</p>
+<p>¿Qué nos permite?</p>
+<ul>
+<li>Ver de manera clara en qué orden se realizarán las actividades.</li>
+<li>Conocer qué hará cada grupo y qué materiales necesitarán.</li>
+<li>Seguir el avance de los niños y niñas y acompañar su aprendizaje sobre las abejas.</li>
+</ul>
+<p>Pueden consultarla aquí 👉 <a href="https://www.mindmeister.com/app/map/3964355535?t=3mi4jUP1KE" target="_blank" id="link_4" rel="noopener">Línea Temporal</a><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1774122070093-lf6b912kv","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Para el proyecto “Explorando el mundo de las abejas”, he creado una línea temporal interactiva que organiza las actividades, los grupos, los recursos y los espacios que utilizaremos en clase.</p>\n<p>¿Qué nos permite?</p>\n<ul>\n<li>Ver de manera clara en qué orden se realizarán las actividades.</li>\n<li>Conocer qué hará cada grupo y qué materiales necesitarán.</li>\n<li>Seguir el avance de los niños y niñas y acompañar su aprendizaje sobre las abejas.</li>\n</ul>\n<p>Pueden consultarla aquí 👉 <a href=\"https://www.mindmeister.com/app/map/3964355535?t=3mi4jUP1KE\" target=\"_blank\" id=\"link_4\" rel=\"noopener\">Línea Temporal</a><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mn35ply4-vopghbamt</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Evaluación</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mn35ply4-vopghbamt</odePageId>
+      <odeBlockId>block-1774122146694-9fdlq9m7l</odeBlockId>
+      <blockName>¿Cómo lo evaluamos todo?</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mn35ply4-vopghbamt</odePageId>
+          <odeBlockId>block-1774122146694-9fdlq9m7l</odeBlockId>
+          <odeIdeviceId>idevice-1774122146692-dbnh7gkt3</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>La presente propuesta de evaluación se enmarca en la SdA “Explorando el mundo de las abejas”, dirigida a alumnado de Educación Infantil de 4 años.</p>
+<p>La evaluación se concibe como un proceso continuo, global y formativo, adaptado al desarrollo evolutivo del alumnado. Desde la especialidad de Audición y Lenguaje, se presta especial atención al desarrollo de la competencia comunicativa, incluyendo aspectos como la comprensión oral, la expresión verbal, el vocabulario y la conciencia fonológica.</p>
+<p>Asimismo, la evaluación se lleva a cabo de manera coordinada con la tutora y el resto de profesionales del equipo docente, permitiendo una visión global e integral del proceso de aprendizaje del alumnado.</p>
+<p>Para ello, se han seleccionado diferentes instrumentos que permiten recoger información desde distintas perspectivas, facilitando la triangulación de los datos.</p>
+<p><strong>a) Rúbrica de observación</strong></p>
+<p><em>Finalidad y aspectos que evalúa</em></p>
+<p>La rúbrica de observación permite evaluar de manera sistemática el desarrollo de la competencia comunicativa del alumnado, en este caso en relación con el área de Audición y Lenguaje.</p>
+<p>A través de este instrumento se valoran aspectos clave del desarrollo lingüístico en alumnado de 4 años, tales como:</p>
+<ul>
+<li>Uso funcional del vocabulario trabajado en la SdA.</li>
+<li>Comprensión de instrucciones orales.</li>
+<li>Expresión oral mediante frases simples.</li>
+<li>Desarrollo de la conciencia fonológica (rimas y sonidos).</li>
+<li>Participación e interacción comunicativa</li>
+</ul>
+<p>Asimismo, permite valorar la implicación del alumnado en tareas como fichas, láminas y producciones orales.</p>
+<p><em>Aplicación y recogida de datos</em></p>
+<p>Se aplicará mediante observación directa durante el desarrollo de actividades individuales y grupales (asambleas, fichas, láminas, grabaciones), en coordinación con la tutora.</p>
+<p>  <img src="{{context_path}}/content/resources/mceclip0.png" width="784" height="1035" /></p>
+<p> </p>
+<p><strong>b) Registro anecdótico</strong></p>
+<p><em>Finalidad y aspectos que evalúa</em></p>
+<p>El registro anecdótico permite recoger información cualitativa sobre el uso real del lenguaje en contextos naturales del aula.</p>
+<p>Resulta especialmente relevante en el ámbito de Audición y Lenguaje, ya que facilita la observación momentánea de:</p>
+<ul>
+<li>Producciones orales espontáneas.</li>
+<li>Uso del vocabulario en situaciones reales.</li>
+<li>Interacción con iguales y adultos.</li>
+<li>Dificultades en la expresión o comprensión.</li>
+</ul>
+<p>Este instrumento permite profundizar en el análisis individualizado del alumnado y complementar la información obtenida mediante otros instrumentos.</p>
+<p><em>Aplicación y recogida de datos</em></p>
+<p>Se utilizará de forma puntual durante situaciones significativas (asambleas, actividades dirigidas, juego), registrando hechos relevantes de manera objetiva, sin juicios de valor.</p>
+<p>  <img src="{{context_path}}/content/resources/mceclip1.png" /></p>
+<p><strong>c) Diana de autoevaluación.</strong></p>
+<p><em>Finalidad y aspectos que evalúa</em></p>
+<p>La diana de autoevaluación permite introducir procesos de metacognición adaptados al alumnado de 4 años, favoreciendo la reflexión sobre su propio aprendizaje de manera visual y accesible.</p>
+<p>A través de este instrumento, el alumnado reflexiona sobre:</p>
+<ul>
+<li>Su participación en las actividades.</li>
+<li>Su percepción del aprendizaje.</li>
+<li>Su implicación en las tareas.</li>
+<li>Su comportamiento en el grupo.</li>
+</ul>
+<p>Se trata de una herramienta motivadora que fomenta la autonomía y la toma de conciencia del propio proceso de aprendizaje.</p>
+<p><em>Aplicación y recogida de datos</em></p>
+<p>Se aplicará al finalizar la situación de aprendizaje (sesión 23), utilizando apoyos visuales (pictogramas) que faciliten su comprensión.</p>
+<p>  <img src="{{context_path}}/content/resources/mceclip2.png" /></p>
+<p>  </p>
+<p></p>
+<p style="text-align: center;"><strong>Obtención y análisis de los datos</strong></p>
+<p>La recogida de información se realizará de forma continua a lo largo de toda la SdA, combinando diferentes instrumentos y técnicas de evaluación:</p>
+<p>La rúbrica de observación permitirá obtener datos sistemáticos sobre el desempeño del alumnado en relación con el lenguaje y la participación.<br />El registro anecdótico aportará información cualitativa sobre situaciones significativas del uso del lenguaje en contextos reales.<br />La diana de autoevaluación permitirá recoger la percepción del propio alumnado sobre su aprendizaje.<br />La recogida de información se realiza de manera coordinada entre la tutora y los especialistas, lo que permite una visión global del desarrollo del alumnado.</p>
+<p>El análisis de los datos se llevará a cabo mediante la triangulación de la información, comparando los resultados obtenidos a través de los distintos instrumentos. Esto permitirá identificar avances, dificultades y necesidades, facilitando la toma de decisiones para ajustar la intervención educativa.</p>
+<p> </p>
+<p style="text-align: center;"><strong>Tratamiento de variables</strong></p>
+<p>En la interpretación de los resultados se tendrán en cuenta las características propias del alumnado de 4 años, especialmente en relación con su desarrollo evolutivo y lingüístico.</p>
+<p>Se considerarán variables como:</p>
+<p>Diferencias en el desarrollo del lenguaje oral<br />Ritmos individuales de aprendizaje<br />Nivel de atención y motivación<br />Participación en el contexto de aula<br />Asimismo, se prestará especial atención a posibles dificultades específicas del lenguaje o necesidades de apoyo, adaptando la evaluación al punto de partida de cada alumno o alumna.</p>
+<p>De este modo, la evaluación se plantea como un proceso flexible, continuo e individualizado, centrado en el progreso del alumnado y en el desarrollo de sus habilidades comunicativas y lingüísticas.<br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1774122146692-dbnh7gkt3","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>La presente propuesta de evaluación se enmarca en la SdA “Explorando el mundo de las abejas”, dirigida a alumnado de Educación Infantil de 4 años.</p>\n<p>La evaluación se concibe como un proceso continuo, global y formativo, adaptado al desarrollo evolutivo del alumnado. Desde la especialidad de Audición y Lenguaje, se presta especial atención al desarrollo de la competencia comunicativa, incluyendo aspectos como la comprensión oral, la expresión verbal, el vocabulario y la conciencia fonológica.</p>\n<p>Asimismo, la evaluación se lleva a cabo de manera coordinada con la tutora y el resto de profesionales del equipo docente, permitiendo una visión global e integral del proceso de aprendizaje del alumnado.</p>\n<p>Para ello, se han seleccionado diferentes instrumentos que permiten recoger información desde distintas perspectivas, facilitando la triangulación de los datos.</p>\n<p><strong>a) Rúbrica de observación</strong></p>\n<p><em>Finalidad y aspectos que evalúa</em></p>\n<p>La rúbrica de observación permite evaluar de manera sistemática el desarrollo de la competencia comunicativa del alumnado, en este caso en relación con el área de Audición y Lenguaje.</p>\n<p>A través de este instrumento se valoran aspectos clave del desarrollo lingüístico en alumnado de 4 años, tales como:</p>\n<ul>\n<li>Uso funcional del vocabulario trabajado en la SdA.</li>\n<li>Comprensión de instrucciones orales.</li>\n<li>Expresión oral mediante frases simples.</li>\n<li>Desarrollo de la conciencia fonológica (rimas y sonidos).</li>\n<li>Participación e interacción comunicativa</li>\n</ul>\n<p>Asimismo, permite valorar la implicación del alumnado en tareas como fichas, láminas y producciones orales.</p>\n<p><em>Aplicación y recogida de datos</em></p>\n<p>Se aplicará mediante observación directa durante el desarrollo de actividades individuales y grupales (asambleas, fichas, láminas, grabaciones), en coordinación con la tutora.</p>\n<p>  <img src=\"{{context_path}}/content/resources/mceclip0.png\" width=\"784\" height=\"1035\" /></p>\n<p> </p>\n<p><strong>b) Registro anecdótico</strong></p>\n<p><em>Finalidad y aspectos que evalúa</em></p>\n<p>El registro anecdótico permite recoger información cualitativa sobre el uso real del lenguaje en contextos naturales del aula.</p>\n<p>Resulta especialmente relevante en el ámbito de Audición y Lenguaje, ya que facilita la observación momentánea de:</p>\n<ul>\n<li>Producciones orales espontáneas.</li>\n<li>Uso del vocabulario en situaciones reales.</li>\n<li>Interacción con iguales y adultos.</li>\n<li>Dificultades en la expresión o comprensión.</li>\n</ul>\n<p>Este instrumento permite profundizar en el análisis individualizado del alumnado y complementar la información obtenida mediante otros instrumentos.</p>\n<p><em>Aplicación y recogida de datos</em></p>\n<p>Se utilizará de forma puntual durante situaciones significativas (asambleas, actividades dirigidas, juego), registrando hechos relevantes de manera objetiva, sin juicios de valor.</p>\n<p>  <img src=\"{{context_path}}/content/resources/mceclip1.png\" /></p>\n<p><strong>c) Diana de autoevaluación.</strong></p>\n<p><em>Finalidad y aspectos que evalúa</em></p>\n<p>La diana de autoevaluación permite introducir procesos de metacognición adaptados al alumnado de 4 años, favoreciendo la reflexión sobre su propio aprendizaje de manera visual y accesible.</p>\n<p>A través de este instrumento, el alumnado reflexiona sobre:</p>\n<ul>\n<li>Su participación en las actividades.</li>\n<li>Su percepción del aprendizaje.</li>\n<li>Su implicación en las tareas.</li>\n<li>Su comportamiento en el grupo.</li>\n</ul>\n<p>Se trata de una herramienta motivadora que fomenta la autonomía y la toma de conciencia del propio proceso de aprendizaje.</p>\n<p><em>Aplicación y recogida de datos</em></p>\n<p>Se aplicará al finalizar la situación de aprendizaje (sesión 23), utilizando apoyos visuales (pictogramas) que faciliten su comprensión.</p>\n<p>  <img src=\"{{context_path}}/content/resources/mceclip2.png\" /></p>\n<p>  </p>\n<p></p>\n<p style=\"text-align: center;\"><strong>Obtención y análisis de los datos</strong></p>\n<p>La recogida de información se realizará de forma continua a lo largo de toda la SdA, combinando diferentes instrumentos y técnicas de evaluación:</p>\n<p>La rúbrica de observación permitirá obtener datos sistemáticos sobre el desempeño del alumnado en relación con el lenguaje y la participación.<br />El registro anecdótico aportará información cualitativa sobre situaciones significativas del uso del lenguaje en contextos reales.<br />La diana de autoevaluación permitirá recoger la percepción del propio alumnado sobre su aprendizaje.<br />La recogida de información se realiza de manera coordinada entre la tutora y los especialistas, lo que permite una visión global del desarrollo del alumnado.</p>\n<p>El análisis de los datos se llevará a cabo mediante la triangulación de la información, comparando los resultados obtenidos a través de los distintos instrumentos. Esto permitirá identificar avances, dificultades y necesidades, facilitando la toma de decisiones para ajustar la intervención educativa.</p>\n<p> </p>\n<p style=\"text-align: center;\"><strong>Tratamiento de variables</strong></p>\n<p>En la interpretación de los resultados se tendrán en cuenta las características propias del alumnado de 4 años, especialmente en relación con su desarrollo evolutivo y lingüístico.</p>\n<p>Se considerarán variables como:</p>\n<p>Diferencias en el desarrollo del lenguaje oral<br />Ritmos individuales de aprendizaje<br />Nivel de atención y motivación<br />Participación en el contexto de aula<br />Asimismo, se prestará especial atención a posibles dificultades específicas del lenguaje o necesidades de apoyo, adaptando la evaluación al punto de partida de cada alumno o alumna.</p>\n<p>De este modo, la evaluación se plantea como un proceso flexible, continuo e individualizado, centrado en el progreso del alumnado y en el desarrollo de sus habilidades comunicativas y lingüísticas.<br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mn35ply5-eczkfvj1g</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Secuencia didáctica - PELO</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Secuencia didáctica - PELO</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Secuencia didáctica - PELO</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mn35ply5-eczkfvj1g</odePageId>
+      <odeBlockId>block-1774122404202-uzg9t9zwk</odeBlockId>
+      <blockName>¿Qué vamos a trabajar y cómo ayudamos a mejorar el lenguaje?</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mn35ply5-eczkfvj1g</odePageId>
+          <odeBlockId>block-1774122404202-uzg9t9zwk</odeBlockId>
+          <odeIdeviceId>idevice-1774122404200-k36kf8f5c</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En esta fase voy a plantear la secuencia didáctica dentro del Programa de Estimulación del Lenguaje Oral (PELO). Esto significa que las actividades y tareas que presentaré estarán orientadas al desarrollo del lenguaje oral, la ampliación del vocabulario y la conciencia fonológica de los niños y niñas.</p>
+<p>Por tanto, se mostrarán a continuación aquellas experiencias que refuercen estas áreas, usando dinámicas lúdicas, juegos interactivos y estrategias adaptadas a las necesidades individuales y grupales. De esta manera, el alumnado podrá aprender de forma divertida y efectiva, mientras avanzamos en el desarrollo de su comunicación y habilidades lingüísticas.<br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1774122404200-k36kf8f5c","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En esta fase voy a plantear la secuencia didáctica dentro del Programa de Estimulación del Lenguaje Oral (PELO). Esto significa que las actividades y tareas que presentaré estarán orientadas al desarrollo del lenguaje oral, la ampliación del vocabulario y la conciencia fonológica de los niños y niñas.</p>\n<p>Por tanto, se mostrarán a continuación aquellas experiencias que refuercen estas áreas, usando dinámicas lúdicas, juegos interactivos y estrategias adaptadas a las necesidades individuales y grupales. De esta manera, el alumnado podrá aprender de forma divertida y efectiva, mientras avanzamos en el desarrollo de su comunicación y habilidades lingüísticas.<br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mn35ply5-n6n7y6ifv</odePageId>
+  <odeParentPageId>page-mn35ply5-eczkfvj1g</odeParentPageId>
+  <pageName>Sesión 1</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesión 1</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesión 1</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mn35ply5-n6n7y6ifv</odePageId>
+      <odeBlockId>block-1774122426000-61sbdf4yh</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mn35ply5-n6n7y6ifv</odePageId>
+          <odeBlockId>block-1774122426000-61sbdf4yh</odeBlockId>
+          <odeIdeviceId>idevice-1774122425998-hjrdnkxsj</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div style="position: relative; width: 100%; height: 0; padding-top: 56.2500%; padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden; border-radius: 8px; will-change: transform;"><iframe width="100" height="100" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0; margin: 0;" loading="lazy" src="https://www.canva.com/design/DAHEfz9TFSg/zyWZ0GOuZSWPb08EAv8CuQ/view?embed" allowfullscreen="allowfullscreen" allow="fullscreen" data-mce-fragment="1">
+  </iframe></div>
+<p><a href="https://www.canva.com/design/DAHEfz9TFSg/zyWZ0GOuZSWPb08EAv8CuQ/view?utm_content=DAHEfz9TFSg&utm_campaign=designshare&utm_medium=embeds&utm_source=link" target="_blank" rel="noopener">SESIÓN 1 - PELO - SDA EXPLORANDO EL MUNDO DE LAS ABEJAS</a> de Lucía Díaz Del Rivero</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1774122425998-hjrdnkxsj","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div style=\"position: relative; width: 100%; height: 0; padding-top: 56.2500%; padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden; border-radius: 8px; will-change: transform;\"><iframe width=\"100\" height=\"100\" style=\"position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0; margin: 0;\" loading=\"lazy\" src=\"https://www.canva.com/design/DAHEfz9TFSg/zyWZ0GOuZSWPb08EAv8CuQ/view?embed\" allowfullscreen=\"allowfullscreen\" allow=\"fullscreen\" data-mce-fragment=\"1\">\n  </iframe></div>\n<p><a href=\"https://www.canva.com/design/DAHEfz9TFSg/zyWZ0GOuZSWPb08EAv8CuQ/view?utm_content=DAHEfz9TFSg&utm_campaign=designshare&utm_medium=embeds&utm_source=link\" target=\"_blank\" rel=\"noopener\">SESIÓN 1 - PELO - SDA EXPLORANDO EL MUNDO DE LAS ABEJAS</a> de Lucía Díaz Del Rivero</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mn35ply5-2f6x1bqc2</odePageId>
+  <odeParentPageId>page-mn35ply5-eczkfvj1g</odeParentPageId>
+  <pageName>Sesión 4</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesión 4</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesión 4</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mn35ply5-2f6x1bqc2</odePageId>
+      <odeBlockId>block-1774122488654-7ycicaiua</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mn35ply5-2f6x1bqc2</odePageId>
+          <odeBlockId>block-1774122488654-7ycicaiua</odeBlockId>
+          <odeIdeviceId>idevice-1774122488651-egtxwtwho</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div style="position: relative; width: 100%; height: 0; padding-top: 56.2500%; padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden; border-radius: 8px; will-change: transform;"><iframe width="100" height="100" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0; margin: 0;" loading="lazy" src="https://www.canva.com/design/DAHEf-mKQDE/vUXdkdVH8v1OKfbwswW7HA/view?embed" allowfullscreen="allowfullscreen" allow="fullscreen" data-mce-fragment="1">
+  </iframe></div>
+<p><a href="https://www.canva.com/design/DAHEf-mKQDE/vUXdkdVH8v1OKfbwswW7HA/view?utm_content=DAHEf-mKQDE&utm_campaign=designshare&utm_medium=embeds&utm_source=link" target="_blank" rel="noopener">SESIÓN 4 - PELO - SDA EXPLORANDO EL MUNDO DE LAS ABEJAS</a> de Lucía Díaz Del Rivero</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1774122488651-egtxwtwho","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div style=\"position: relative; width: 100%; height: 0; padding-top: 56.2500%; padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden; border-radius: 8px; will-change: transform;\"><iframe width=\"100\" height=\"100\" style=\"position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0; margin: 0;\" loading=\"lazy\" src=\"https://www.canva.com/design/DAHEf-mKQDE/vUXdkdVH8v1OKfbwswW7HA/view?embed\" allowfullscreen=\"allowfullscreen\" allow=\"fullscreen\" data-mce-fragment=\"1\">\n  </iframe></div>\n<p><a href=\"https://www.canva.com/design/DAHEf-mKQDE/vUXdkdVH8v1OKfbwswW7HA/view?utm_content=DAHEf-mKQDE&utm_campaign=designshare&utm_medium=embeds&utm_source=link\" target=\"_blank\" rel=\"noopener\">SESIÓN 4 - PELO - SDA EXPLORANDO EL MUNDO DE LAS ABEJAS</a> de Lucía Díaz Del Rivero</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mn35ply5-qrftjpfrh</odePageId>
+  <odeParentPageId>page-mn35ply5-eczkfvj1g</odeParentPageId>
+  <pageName>Sesión 7</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesión 7</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesión 7</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mn35ply5-qrftjpfrh</odePageId>
+      <odeBlockId>block-1774122513645-jm9xr1e54</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mn35ply5-qrftjpfrh</odePageId>
+          <odeBlockId>block-1774122513645-jm9xr1e54</odeBlockId>
+          <odeIdeviceId>idevice-1774122513644-4tigj2wjx</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div style="position: relative; width: 100%; height: 0; padding-top: 56.2500%; padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden; border-radius: 8px; will-change: transform;"><iframe width="100" height="100" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0; margin: 0;" loading="lazy" src="https://www.canva.com/design/DAHEgHPzcRc/3JJ_WWBYtjxCbG25R6HnXw/view?embed" allowfullscreen="allowfullscreen" allow="fullscreen" data-mce-fragment="1">
+  </iframe></div>
+<p><a href="https://www.canva.com/design/DAHEgHPzcRc/3JJ_WWBYtjxCbG25R6HnXw/view?utm_content=DAHEgHPzcRc&utm_campaign=designshare&utm_medium=embeds&utm_source=link" target="_blank" rel="noopener">SESIÓN 7 - PELO - SDA EXPLORANDO EL MUNDO DE LAS ABEJAS</a> de Lucía Díaz Del Rivero</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1774122513644-4tigj2wjx","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div style=\"position: relative; width: 100%; height: 0; padding-top: 56.2500%; padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden; border-radius: 8px; will-change: transform;\"><iframe width=\"100\" height=\"100\" style=\"position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0; margin: 0;\" loading=\"lazy\" src=\"https://www.canva.com/design/DAHEgHPzcRc/3JJ_WWBYtjxCbG25R6HnXw/view?embed\" allowfullscreen=\"allowfullscreen\" allow=\"fullscreen\" data-mce-fragment=\"1\">\n  </iframe></div>\n<p><a href=\"https://www.canva.com/design/DAHEgHPzcRc/3JJ_WWBYtjxCbG25R6HnXw/view?utm_content=DAHEgHPzcRc&utm_campaign=designshare&utm_medium=embeds&utm_source=link\" target=\"_blank\" rel=\"noopener\">SESIÓN 7 - PELO - SDA EXPLORANDO EL MUNDO DE LAS ABEJAS</a> de Lucía Díaz Del Rivero</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mn35ply6-n9po45p27</odePageId>
+  <odeParentPageId>page-mn35ply5-eczkfvj1g</odeParentPageId>
+  <pageName>Sesión 10</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesión 10</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesión 10</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mn35ply6-n9po45p27</odePageId>
+      <odeBlockId>block-1774122552328-b5vsv15pm</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mn35ply6-n9po45p27</odePageId>
+          <odeBlockId>block-1774122552328-b5vsv15pm</odeBlockId>
+          <odeIdeviceId>idevice-1774122552326-4gx2ugby9</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div style="position: relative; width: 100%; height: 0; padding-top: 56.2500%; padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden; border-radius: 8px; will-change: transform;"><iframe width="100" height="100" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0; margin: 0;" loading="lazy" src="https://www.canva.com/design/DAHEgJgGs8s/SDNN711zQW9Ye1y2p2ftuA/view?embed" allowfullscreen="allowfullscreen" allow="fullscreen" data-mce-fragment="1">
+  </iframe></div>
+<p><a href="https://www.canva.com/design/DAHEgJgGs8s/SDNN711zQW9Ye1y2p2ftuA/view?utm_content=DAHEgJgGs8s&utm_campaign=designshare&utm_medium=embeds&utm_source=link" target="_blank" rel="noopener">SESIÓN 10 - PELO - SDA EXPLORANDO EL MUNDO DE LAS ABEJAS</a> de Lucía Díaz Del Rivero</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1774122552326-4gx2ugby9","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div style=\"position: relative; width: 100%; height: 0; padding-top: 56.2500%; padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden; border-radius: 8px; will-change: transform;\"><iframe width=\"100\" height=\"100\" style=\"position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0; margin: 0;\" loading=\"lazy\" src=\"https://www.canva.com/design/DAHEgJgGs8s/SDNN711zQW9Ye1y2p2ftuA/view?embed\" allowfullscreen=\"allowfullscreen\" allow=\"fullscreen\" data-mce-fragment=\"1\">\n  </iframe></div>\n<p><a href=\"https://www.canva.com/design/DAHEgJgGs8s/SDNN711zQW9Ye1y2p2ftuA/view?utm_content=DAHEgJgGs8s&utm_campaign=designshare&utm_medium=embeds&utm_source=link\" target=\"_blank\" rel=\"noopener\">SESIÓN 10 - PELO - SDA EXPLORANDO EL MUNDO DE LAS ABEJAS</a> de Lucía Díaz Del Rivero</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mn35ply6-wm9g94x3e</odePageId>
+  <odeParentPageId>page-mn35ply5-eczkfvj1g</odeParentPageId>
+  <pageName>Sesión 13</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesión 13</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesión 13</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mn35ply6-wm9g94x3e</odePageId>
+      <odeBlockId>block-1774122623178-yzp0cru5b</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mn35ply6-wm9g94x3e</odePageId>
+          <odeBlockId>block-1774122623178-yzp0cru5b</odeBlockId>
+          <odeIdeviceId>idevice-1774122623175-sthhd0xqy</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div style="position: relative; width: 100%; height: 0; padding-top: 56.2500%; padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden; border-radius: 8px; will-change: transform;"><iframe width="100" height="100" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0; margin: 0;" loading="lazy" src="https://www.canva.com/design/DAHEgcjQRLA/kiZT_3gC-xH4b3qmk15QgA/view?embed" allowfullscreen="allowfullscreen" allow="fullscreen" data-mce-fragment="1">
+  </iframe></div>
+<p><a href="https://www.canva.com/design/DAHEgcjQRLA/kiZT_3gC-xH4b3qmk15QgA/view?utm_content=DAHEgcjQRLA&utm_campaign=designshare&utm_medium=embeds&utm_source=link" target="_blank" rel="noopener">SESIÓN 13 - PELO - SDA EXPLORANDO EL MUNDO DE LAS ABEJAS</a> de Lucía Díaz Del Rivero</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1774122623175-sthhd0xqy","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div style=\"position: relative; width: 100%; height: 0; padding-top: 56.2500%; padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden; border-radius: 8px; will-change: transform;\"><iframe width=\"100\" height=\"100\" style=\"position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0; margin: 0;\" loading=\"lazy\" src=\"https://www.canva.com/design/DAHEgcjQRLA/kiZT_3gC-xH4b3qmk15QgA/view?embed\" allowfullscreen=\"allowfullscreen\" allow=\"fullscreen\" data-mce-fragment=\"1\">\n  </iframe></div>\n<p><a href=\"https://www.canva.com/design/DAHEgcjQRLA/kiZT_3gC-xH4b3qmk15QgA/view?utm_content=DAHEgcjQRLA&utm_campaign=designshare&utm_medium=embeds&utm_source=link\" target=\"_blank\" rel=\"noopener\">SESIÓN 13 - PELO - SDA EXPLORANDO EL MUNDO DE LAS ABEJAS</a> de Lucía Díaz Del Rivero</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mn35ply6-v7h1jhufs</odePageId>
+  <odeParentPageId>page-mn35ply5-eczkfvj1g</odeParentPageId>
+  <pageName>Sesión 16</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesión 16</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesión 16</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mn35ply6-v7h1jhufs</odePageId>
+      <odeBlockId>block-1774122665044-msbatex0f</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mn35ply6-v7h1jhufs</odePageId>
+          <odeBlockId>block-1774122665044-msbatex0f</odeBlockId>
+          <odeIdeviceId>idevice-1774122665042-ubwa6x42o</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div style="position: relative; width: 100%; height: 0; padding-top: 56.2500%; padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden; border-radius: 8px; will-change: transform;"><iframe width="100" height="100" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0; margin: 0;" loading="lazy" src="https://www.canva.com/design/DAHEgf6HXwc/WIJi4WiFl0vUMbY2-5-38w/view?embed" allowfullscreen="allowfullscreen" allow="fullscreen" data-mce-fragment="1">
+  </iframe></div>
+<p><a href="https://www.canva.com/design/DAHEgf6HXwc/WIJi4WiFl0vUMbY2-5-38w/view?utm_content=DAHEgf6HXwc&utm_campaign=designshare&utm_medium=embeds&utm_source=link" target="_blank" rel="noopener">SESIÓN 16 - PELO - SDA EXPLORANDO EL MUNDO DE LAS ABEJAS</a> de Lucía Díaz Del Rivero</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1774122665042-ubwa6x42o","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div style=\"position: relative; width: 100%; height: 0; padding-top: 56.2500%; padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden; border-radius: 8px; will-change: transform;\"><iframe width=\"100\" height=\"100\" style=\"position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0; margin: 0;\" loading=\"lazy\" src=\"https://www.canva.com/design/DAHEgf6HXwc/WIJi4WiFl0vUMbY2-5-38w/view?embed\" allowfullscreen=\"allowfullscreen\" allow=\"fullscreen\" data-mce-fragment=\"1\">\n  </iframe></div>\n<p><a href=\"https://www.canva.com/design/DAHEgf6HXwc/WIJi4WiFl0vUMbY2-5-38w/view?utm_content=DAHEgf6HXwc&utm_campaign=designshare&utm_medium=embeds&utm_source=link\" target=\"_blank\" rel=\"noopener\">SESIÓN 16 - PELO - SDA EXPLORANDO EL MUNDO DE LAS ABEJAS</a> de Lucía Díaz Del Rivero</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mn35ply6-wys3rcz3h</odePageId>
+  <odeParentPageId>page-mn35ply5-eczkfvj1g</odeParentPageId>
+  <pageName>Sesión 19</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesión 19</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesión 19</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mn35ply6-wys3rcz3h</odePageId>
+      <odeBlockId>block-1774122704058-plibluql5</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mn35ply6-wys3rcz3h</odePageId>
+          <odeBlockId>block-1774122704058-plibluql5</odeBlockId>
+          <odeIdeviceId>idevice-1774122704057-y8px61ekz</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div style="position: relative; width: 100%; height: 0; padding-top: 56.2500%; padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden; border-radius: 8px; will-change: transform;"><iframe width="100" height="100" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0; margin: 0;" loading="lazy" src="https://www.canva.com/design/DAHEgav-IX8/qWlZnGFV3m52d-I7cduM6w/view?embed" allowfullscreen="allowfullscreen" allow="fullscreen" data-mce-fragment="1">
+  </iframe></div>
+<p><a href="https://www.canva.com/design/DAHEgav-IX8/qWlZnGFV3m52d-I7cduM6w/view?utm_content=DAHEgav-IX8&utm_campaign=designshare&utm_medium=embeds&utm_source=link" target="_blank" rel="noopener">SESIÓN 19 - PELO - SDA EXPLORANDO EL MUNDO DE LAS ABEJAS</a> de Lucía Díaz Del Rivero</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1774122704057-y8px61ekz","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div style=\"position: relative; width: 100%; height: 0; padding-top: 56.2500%; padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden; border-radius: 8px; will-change: transform;\"><iframe width=\"100\" height=\"100\" style=\"position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0; margin: 0;\" loading=\"lazy\" src=\"https://www.canva.com/design/DAHEgav-IX8/qWlZnGFV3m52d-I7cduM6w/view?embed\" allowfullscreen=\"allowfullscreen\" allow=\"fullscreen\" data-mce-fragment=\"1\">\n  </iframe></div>\n<p><a href=\"https://www.canva.com/design/DAHEgav-IX8/qWlZnGFV3m52d-I7cduM6w/view?utm_content=DAHEgav-IX8&utm_campaign=designshare&utm_medium=embeds&utm_source=link\" target=\"_blank\" rel=\"noopener\">SESIÓN 19 - PELO - SDA EXPLORANDO EL MUNDO DE LAS ABEJAS</a> de Lucía Díaz Del Rivero</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mn35ply6-agqfmqk9g</odePageId>
+  <odeParentPageId>page-mn35ply5-eczkfvj1g</odeParentPageId>
+  <pageName>Sesión 21</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesión 21</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesión 21</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mn35ply6-agqfmqk9g</odePageId>
+      <odeBlockId>block-1774122746119-2rvyufdyi</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mn35ply6-agqfmqk9g</odePageId>
+          <odeBlockId>block-1774122746119-2rvyufdyi</odeBlockId>
+          <odeIdeviceId>idevice-1774122746117-mpr5s4bsd</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div style="position: relative; width: 100%; height: 0; padding-top: 56.2500%; padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden; border-radius: 8px; will-change: transform;"><iframe width="100" height="100" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0; margin: 0;" loading="lazy" src="https://www.canva.com/design/DAHEghc_3ZE/GL2tTC8zHuzHs77vfQRVwQ/view?embed" allowfullscreen="allowfullscreen" allow="fullscreen" data-mce-fragment="1">
+  </iframe></div>
+<p><a href="https://www.canva.com/design/DAHEghc_3ZE/GL2tTC8zHuzHs77vfQRVwQ/view?utm_content=DAHEghc_3ZE&utm_campaign=designshare&utm_medium=embeds&utm_source=link" target="_blank" rel="noopener">SESIÓN 21 - PELO - SDA EXPLORANDO EL MUNDO DE LAS ABEJAS</a> de Lucía Díaz Del Rivero</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1774122746117-mpr5s4bsd","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div style=\"position: relative; width: 100%; height: 0; padding-top: 56.2500%; padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden; border-radius: 8px; will-change: transform;\"><iframe width=\"100\" height=\"100\" style=\"position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0; margin: 0;\" loading=\"lazy\" src=\"https://www.canva.com/design/DAHEghc_3ZE/GL2tTC8zHuzHs77vfQRVwQ/view?embed\" allowfullscreen=\"allowfullscreen\" allow=\"fullscreen\" data-mce-fragment=\"1\">\n  </iframe></div>\n<p><a href=\"https://www.canva.com/design/DAHEghc_3ZE/GL2tTC8zHuzHs77vfQRVwQ/view?utm_content=DAHEghc_3ZE&utm_campaign=designshare&utm_medium=embeds&utm_source=link\" target=\"_blank\" rel=\"noopener\">SESIÓN 21 - PELO - SDA EXPLORANDO EL MUNDO DE LAS ABEJAS</a> de Lucía Díaz Del Rivero</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mn35ply6-gtjwrf22d</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Créditos</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Créditos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Créditos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mn35ply6-gtjwrf22d</odePageId>
+      <odeBlockId>block-1774122786391-q7jro2su7</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mn35ply6-gtjwrf22d</odePageId>
+          <odeBlockId>block-1774122786391-q7jro2su7</odeBlockId>
+          <odeIdeviceId>idevice-1774122786389-65d9rdwcr</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info"><caption>Información general sobre este recurso educativo</caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-title">SdA "Explorando el mundo de las abejas"</span></td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-description">Situación de Aprendizaje diseñada para el alumnado de Educación Infantil de 4 años. Igualmente, los aspectos destacados se encuentran dentro del Programa de Estimulación del Lenguaje Oral (PELO) impartido por la maestra de Audición y Lenguaje.</span></td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-author">Lucía Díaz del Rivero</span></td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-license">creative commons: attribution - share alike 4.0</span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="http://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#107275;color:#ffffff;">Descargar el archivo .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
