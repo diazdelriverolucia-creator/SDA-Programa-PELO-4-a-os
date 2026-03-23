@@ -1,0 +1,332 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest identifier="eXe-MANIFEST-mn35ppte4yzqw"
+  xmlns="http://www.imsglobal.org/xsd/imscp_v1p1"
+  xmlns:imsmd="http://www.imsglobal.org/xsd/imsmd_v1p2">
+  <metadata>
+    <schema>IMS Content</schema>
+    <schemaversion>1.1.3</schemaversion>
+    <imsmd:lom>
+      <imsmd:general>
+        <imsmd:title>
+          <imsmd:langstring xml:lang="es">SdA &quot;Explorando el mundo de las abejas&quot;</imsmd:langstring>
+        </imsmd:title>
+        <imsmd:description>
+          <imsmd:langstring xml:lang="es">Situación de Aprendizaje diseñada para el alumnado de Educación Infantil de 4 años. Igualmente, los aspectos destacados se encuentran dentro del Programa de Estimulación del Lenguaje Oral (PELO) impartido por la maestra de Audición y Lenguaje.</imsmd:langstring>
+        </imsmd:description>
+        <imsmd:language>es</imsmd:language>
+      </imsmd:general>
+      <imsmd:lifecycle>
+        <imsmd:contribute>
+          <imsmd:role>
+            <imsmd:value>Author</imsmd:value>
+          </imsmd:role>
+          <imsmd:centity>
+            <imsmd:vcard>BEGIN:VCARD\nFN:Lucía Díaz del Rivero\nEND:VCARD</imsmd:vcard>
+          </imsmd:centity>
+        </imsmd:contribute>
+      </imsmd:lifecycle>
+    </imsmd:lom>
+  </metadata>
+  <organizations default="eXe-mn35ppte4yzqw">
+    <organization identifier="eXe-mn35ppte4yzqw" structure="hierarchical">
+      <title>SdA &quot;Explorando el mundo de las abejas&quot;</title>
+      <item identifier="ITEM-page-mn35plxy-wlpab2r50" identifierref="RES-page-mn35plxy-wlpab2r50" isvisible="true">
+        <title>Inicio</title>
+      </item>
+      <item identifier="ITEM-page-mn35ply0-664umuobd" identifierref="RES-page-mn35ply0-664umuobd" isvisible="true">
+        <title>Curación de contenidos del aula</title>
+      </item>
+      <item identifier="ITEM-page-mn35ply0-skv40qrl4" identifierref="RES-page-mn35ply0-skv40qrl4" isvisible="true">
+        <title>Licencia y seguridad</title>
+      </item>
+      <item identifier="ITEM-page-mn35ply1-19jc2rl5s" identifierref="RES-page-mn35ply1-19jc2rl5s" isvisible="true">
+        <title>Guía didáctica</title>
+      </item>
+      <item identifier="ITEM-page-mn35ply3-riybm1v5o" identifierref="RES-page-mn35ply3-riybm1v5o" isvisible="true">
+        <title>Línea temporal</title>
+      </item>
+      <item identifier="ITEM-page-mn35ply4-vopghbamt" identifierref="RES-page-mn35ply4-vopghbamt" isvisible="true">
+        <title>Evaluación</title>
+      </item>
+      <item identifier="ITEM-page-mn35ply5-eczkfvj1g" identifierref="RES-page-mn35ply5-eczkfvj1g" isvisible="true">
+        <title>Secuencia didáctica - PELO</title>
+        <item identifier="ITEM-page-mn35ply5-n6n7y6ifv" identifierref="RES-page-mn35ply5-n6n7y6ifv" isvisible="true">
+          <title>Sesión 1</title>
+        </item>
+        <item identifier="ITEM-page-mn35ply5-2f6x1bqc2" identifierref="RES-page-mn35ply5-2f6x1bqc2" isvisible="true">
+          <title>Sesión 4</title>
+        </item>
+        <item identifier="ITEM-page-mn35ply5-qrftjpfrh" identifierref="RES-page-mn35ply5-qrftjpfrh" isvisible="true">
+          <title>Sesión 7</title>
+        </item>
+        <item identifier="ITEM-page-mn35ply6-n9po45p27" identifierref="RES-page-mn35ply6-n9po45p27" isvisible="true">
+          <title>Sesión 10</title>
+        </item>
+        <item identifier="ITEM-page-mn35ply6-wm9g94x3e" identifierref="RES-page-mn35ply6-wm9g94x3e" isvisible="true">
+          <title>Sesión 13</title>
+        </item>
+        <item identifier="ITEM-page-mn35ply6-v7h1jhufs" identifierref="RES-page-mn35ply6-v7h1jhufs" isvisible="true">
+          <title>Sesión 16</title>
+        </item>
+        <item identifier="ITEM-page-mn35ply6-wys3rcz3h" identifierref="RES-page-mn35ply6-wys3rcz3h" isvisible="true">
+          <title>Sesión 19</title>
+        </item>
+        <item identifier="ITEM-page-mn35ply6-agqfmqk9g" identifierref="RES-page-mn35ply6-agqfmqk9g" isvisible="true">
+          <title>Sesión 21</title>
+        </item>
+      </item>
+      <item identifier="ITEM-page-mn35ply6-gtjwrf22d" identifierref="RES-page-mn35ply6-gtjwrf22d" isvisible="true">
+        <title>Créditos</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="RES-page-mn35plxy-wlpab2r50" type="webcontent" href="index.html">
+      <file href="index.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-mn35ply0-664umuobd" type="webcontent" href="html/curacion-de-contenidos-del-aula.html">
+      <file href="html/curacion-de-contenidos-del-aula.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-mn35ply0-skv40qrl4" type="webcontent" href="html/licencia-y-seguridad.html">
+      <file href="html/licencia-y-seguridad.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-mn35ply1-19jc2rl5s" type="webcontent" href="html/guia-didactica.html">
+      <file href="html/guia-didactica.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-mn35ply3-riybm1v5o" type="webcontent" href="html/linea-temporal.html">
+      <file href="html/linea-temporal.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-mn35ply4-vopghbamt" type="webcontent" href="html/evaluacion.html">
+      <file href="html/evaluacion.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-mn35ply5-eczkfvj1g" type="webcontent" href="html/secuencia-didactica---pelo.html">
+      <file href="html/secuencia-didactica---pelo.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-mn35ply5-n6n7y6ifv" type="webcontent" href="html/sesion-1.html">
+      <file href="html/sesion-1.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-mn35ply5-2f6x1bqc2" type="webcontent" href="html/sesion-4.html">
+      <file href="html/sesion-4.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-mn35ply5-qrftjpfrh" type="webcontent" href="html/sesion-7.html">
+      <file href="html/sesion-7.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-mn35ply6-n9po45p27" type="webcontent" href="html/sesion-10.html">
+      <file href="html/sesion-10.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-mn35ply6-wm9g94x3e" type="webcontent" href="html/sesion-13.html">
+      <file href="html/sesion-13.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-mn35ply6-v7h1jhufs" type="webcontent" href="html/sesion-16.html">
+      <file href="html/sesion-16.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-mn35ply6-wys3rcz3h" type="webcontent" href="html/sesion-19.html">
+      <file href="html/sesion-19.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-mn35ply6-agqfmqk9g" type="webcontent" href="html/sesion-21.html">
+      <file href="html/sesion-21.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-mn35ply6-gtjwrf22d" type="webcontent" href="html/creditos.html">
+      <file href="html/creditos.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="COMMON_FILES" type="webcontent">
+      <file href="content.dtd"/>
+      <file href="content.xml"/>
+      <file href="content/css/base.css"/>
+      <file href="content/resources/6.1. Asociamos tareas a Criterios de evaluación.docx.pdf"/>
+      <file href="content/resources/mceclip0.png"/>
+      <file href="content/resources/mceclip1.png"/>
+      <file href="content/resources/mceclip2.png"/>
+      <file href="idevices/download-source-file/download-package-licenses.png"/>
+      <file href="idevices/download-source-file/download-source-file.css"/>
+      <file href="idevices/download-source-file/download-source-file.js"/>
+      <file href="idevices/download-source-file/exequextsq.svg"/>
+      <file href="idevices/text/exequextsq.svg"/>
+      <file href="idevices/text/text.css"/>
+      <file href="idevices/text/text.html"/>
+      <file href="idevices/text/text.js"/>
+      <file href="libs/bootstrap/bootstrap.bundle.min.js"/>
+      <file href="libs/bootstrap/bootstrap.bundle.min.js.map"/>
+      <file href="libs/bootstrap/bootstrap.min.css"/>
+      <file href="libs/bootstrap/bootstrap.min.css.map"/>
+      <file href="libs/common.js"/>
+      <file href="libs/common_i18n.js"/>
+      <file href="libs/exe_atools/exe_atools.css"/>
+      <file href="libs/exe_atools/exe_atools.js"/>
+      <file href="libs/exe_atools/exe_atools.png"/>
+      <file href="libs/exe_atools/exe_atools_ah.woff2"/>
+      <file href="libs/exe_atools/exe_atools_ah_ext.woff2"/>
+      <file href="libs/exe_atools/exe_atools_mo.woff2"/>
+      <file href="libs/exe_atools/exe_atools_mo_cy.woff2"/>
+      <file href="libs/exe_atools/exe_atools_mo_cy_ext.woff2"/>
+      <file href="libs/exe_atools/exe_atools_mo_ext.woff2"/>
+      <file href="libs/exe_atools/exe_atools_mo_vi.woff2"/>
+      <file href="libs/exe_atools/exe_atools_od.woff"/>
+      <file href="libs/exe_atools/exe_atools_od_b.woff"/>
+      <file href="libs/exe_atools/exe_atools_od_bi.woff"/>
+      <file href="libs/exe_atools/exe_atools_od_i.woff"/>
+      <file href="libs/exe_elpx_download/exe_elpx_download.js"/>
+      <file href="libs/exe_export.js"/>
+      <file href="libs/exe_math/LICENSE"/>
+      <file href="libs/exe_math/a11y/assistive-mml.js"/>
+      <file href="libs/exe_math/a11y/complexity.js"/>
+      <file href="libs/exe_math/a11y/explorer.js"/>
+      <file href="libs/exe_math/a11y/semantic-enrich.js"/>
+      <file href="libs/exe_math/a11y/speech.js"/>
+      <file href="libs/exe_math/a11y/sre.js"/>
+      <file href="libs/exe_math/adaptors/jsdom.js"/>
+      <file href="libs/exe_math/adaptors/linkedom.js"/>
+      <file href="libs/exe_math/adaptors/liteDOM.js"/>
+      <file href="libs/exe_math/core.js"/>
+      <file href="libs/exe_math/input/asciimath.js"/>
+      <file href="libs/exe_math/input/mml.js"/>
+      <file href="libs/exe_math/input/mml/entities.js"/>
+      <file href="libs/exe_math/input/mml/extensions/mml3.js"/>
+      <file href="libs/exe_math/input/mml/extensions/mml3.sef.json"/>
+      <file href="libs/exe_math/input/tex-base.js"/>
+      <file href="libs/exe_math/input/tex.js"/>
+      <file href="libs/exe_math/input/tex/extensions/action.js"/>
+      <file href="libs/exe_math/input/tex/extensions/ams.js"/>
+      <file href="libs/exe_math/input/tex/extensions/amscd.js"/>
+      <file href="libs/exe_math/input/tex/extensions/autoload.js"/>
+      <file href="libs/exe_math/input/tex/extensions/bbm.js"/>
+      <file href="libs/exe_math/input/tex/extensions/bboldx.js"/>
+      <file href="libs/exe_math/input/tex/extensions/bbox.js"/>
+      <file href="libs/exe_math/input/tex/extensions/begingroup.js"/>
+      <file href="libs/exe_math/input/tex/extensions/boldsymbol.js"/>
+      <file href="libs/exe_math/input/tex/extensions/braket.js"/>
+      <file href="libs/exe_math/input/tex/extensions/bussproofs.js"/>
+      <file href="libs/exe_math/input/tex/extensions/cancel.js"/>
+      <file href="libs/exe_math/input/tex/extensions/cases.js"/>
+      <file href="libs/exe_math/input/tex/extensions/centernot.js"/>
+      <file href="libs/exe_math/input/tex/extensions/color.js"/>
+      <file href="libs/exe_math/input/tex/extensions/colortbl.js"/>
+      <file href="libs/exe_math/input/tex/extensions/colorv2.js"/>
+      <file href="libs/exe_math/input/tex/extensions/configmacros.js"/>
+      <file href="libs/exe_math/input/tex/extensions/dsfont.js"/>
+      <file href="libs/exe_math/input/tex/extensions/empheq.js"/>
+      <file href="libs/exe_math/input/tex/extensions/enclose.js"/>
+      <file href="libs/exe_math/input/tex/extensions/extpfeil.js"/>
+      <file href="libs/exe_math/input/tex/extensions/gensymb.js"/>
+      <file href="libs/exe_math/input/tex/extensions/html.js"/>
+      <file href="libs/exe_math/input/tex/extensions/mathtools.js"/>
+      <file href="libs/exe_math/input/tex/extensions/mhchem.js"/>
+      <file href="libs/exe_math/input/tex/extensions/newcommand.js"/>
+      <file href="libs/exe_math/input/tex/extensions/noerrors.js"/>
+      <file href="libs/exe_math/input/tex/extensions/noundefined.js"/>
+      <file href="libs/exe_math/input/tex/extensions/physics.js"/>
+      <file href="libs/exe_math/input/tex/extensions/require.js"/>
+      <file href="libs/exe_math/input/tex/extensions/setoptions.js"/>
+      <file href="libs/exe_math/input/tex/extensions/tagformat.js"/>
+      <file href="libs/exe_math/input/tex/extensions/texhtml.js"/>
+      <file href="libs/exe_math/input/tex/extensions/textcomp.js"/>
+      <file href="libs/exe_math/input/tex/extensions/textmacros.js"/>
+      <file href="libs/exe_math/input/tex/extensions/unicode.js"/>
+      <file href="libs/exe_math/input/tex/extensions/units.js"/>
+      <file href="libs/exe_math/input/tex/extensions/upgreek.js"/>
+      <file href="libs/exe_math/input/tex/extensions/verb.js"/>
+      <file href="libs/exe_math/loader.js"/>
+      <file href="libs/exe_math/output/chtml.js"/>
+      <file href="libs/exe_math/output/svg.js"/>
+      <file href="libs/exe_math/sre/mathmaps/af.json"/>
+      <file href="libs/exe_math/sre/mathmaps/base.json"/>
+      <file href="libs/exe_math/sre/mathmaps/ca.json"/>
+      <file href="libs/exe_math/sre/mathmaps/da.json"/>
+      <file href="libs/exe_math/sre/mathmaps/de.json"/>
+      <file href="libs/exe_math/sre/mathmaps/en.json"/>
+      <file href="libs/exe_math/sre/mathmaps/es.json"/>
+      <file href="libs/exe_math/sre/mathmaps/euro.json"/>
+      <file href="libs/exe_math/sre/mathmaps/fr.json"/>
+      <file href="libs/exe_math/sre/mathmaps/hi.json"/>
+      <file href="libs/exe_math/sre/mathmaps/it.json"/>
+      <file href="libs/exe_math/sre/mathmaps/ko.json"/>
+      <file href="libs/exe_math/sre/mathmaps/nb.json"/>
+      <file href="libs/exe_math/sre/mathmaps/nemeth.json"/>
+      <file href="libs/exe_math/sre/mathmaps/nn.json"/>
+      <file href="libs/exe_math/sre/mathmaps/sv.json"/>
+      <file href="libs/exe_math/sre/require.d.mts"/>
+      <file href="libs/exe_math/sre/require.mjs"/>
+      <file href="libs/exe_math/sre/speech-worker.js"/>
+      <file href="libs/exe_math/startup.js"/>
+      <file href="libs/exe_math/tex-mml-svg.js"/>
+      <file href="libs/exe_math/ui/lazy.js"/>
+      <file href="libs/exe_math/ui/menu.js"/>
+      <file href="libs/exe_math/ui/safe.js"/>
+      <file href="libs/favicon.ico"/>
+      <file href="libs/fflate/fflate.umd.js"/>
+      <file href="libs/jquery/jquery.min.js"/>
+      <file href="theme/config.xml"/>
+      <file href="theme/icons/activity.png"/>
+      <file href="theme/icons/agreement.png"/>
+      <file href="theme/icons/alert.png"/>
+      <file href="theme/icons/arts.png"/>
+      <file href="theme/icons/ask.png"/>
+      <file href="theme/icons/book.png"/>
+      <file href="theme/icons/calculate.png"/>
+      <file href="theme/icons/case.png"/>
+      <file href="theme/icons/chrono.png"/>
+      <file href="theme/icons/collaborative.png"/>
+      <file href="theme/icons/competencies.png"/>
+      <file href="theme/icons/diary.png"/>
+      <file href="theme/icons/diary_alt.png"/>
+      <file href="theme/icons/discuss.png"/>
+      <file href="theme/icons/download.png"/>
+      <file href="theme/icons/draw.png"/>
+      <file href="theme/icons/english.png"/>
+      <file href="theme/icons/experiment.png"/>
+      <file href="theme/icons/explore.png"/>
+      <file href="theme/icons/file.png"/>
+      <file href="theme/icons/gallery.png"/>
+      <file href="theme/icons/geography.png"/>
+      <file href="theme/icons/guide.png"/>
+      <file href="theme/icons/history.png"/>
+      <file href="theme/icons/info.png"/>
+      <file href="theme/icons/interactive.png"/>
+      <file href="theme/icons/letters.png"/>
+      <file href="theme/icons/listen.png"/>
+      <file href="theme/icons/math.png"/>
+      <file href="theme/icons/music.png"/>
+      <file href="theme/icons/nature.png"/>
+      <file href="theme/icons/objectives.png"/>
+      <file href="theme/icons/observe.png"/>
+      <file href="theme/icons/passport.png"/>
+      <file href="theme/icons/perform.png"/>
+      <file href="theme/icons/piece.png"/>
+      <file href="theme/icons/pieces.png"/>
+      <file href="theme/icons/play.png"/>
+      <file href="theme/icons/present.png"/>
+      <file href="theme/icons/reflection.png"/>
+      <file href="theme/icons/roadmap.png"/>
+      <file href="theme/icons/share.png"/>
+      <file href="theme/icons/sport.png"/>
+      <file href="theme/icons/start.png"/>
+      <file href="theme/icons/stop.png"/>
+      <file href="theme/icons/suitcase.png"/>
+      <file href="theme/icons/technology.png"/>
+      <file href="theme/icons/think.png"/>
+      <file href="theme/icons/think_alt.png"/>
+      <file href="theme/icons/video.png"/>
+      <file href="theme/img/icons.png"/>
+      <file href="theme/img/licenses.gif"/>
+      <file href="theme/screenshot.png"/>
+      <file href="theme/style.css"/>
+      <file href="theme/style.js"/>
+    </resource>
+  </resources>
+</manifest>
